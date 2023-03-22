@@ -1,1 +1,3 @@
-# -yo-vishnyakov-alexander-3
+# yo-vishnyakov-alexander-3
+
+Учебный репозиторий студента Вишнякова Александра 3 модуль
